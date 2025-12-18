@@ -1,0 +1,40 @@
+p {
+  color: black;
+  font-size: 14px;
+  text-decoration-color: lightgray
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: cursive;
+}
+h3 {
+  font-size: 30px;
+  text-decoration: line-through;
+}
+li {
+  letter-spacing: 6px;
+  text-shadow: -1.5px 1.5px gray;
+}
+h6 {
+  text-align: right;
+  font-weight: bolder
+}
+.heading {
+  text-decoration: underline;
+  font-family: sans-serif
+}
+.alt {
+  text-decoration: overline;
+  text-decoration-color: slategray;
+  text-decoration-style: double;
+}
+.img {
+  height: 80px;
+  width: 350px;
+  margin: 10px;
+  border-color: dimgray;
+  border-width: 4px;
+  border-style: dashed;
+  border-radius: 30px;
+}
